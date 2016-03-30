@@ -3,7 +3,7 @@
 Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.
 
 ### Download
-https://addons.mozilla.org/addon/ubuntu-venezuela/
+https://addons.mozilla.org/addon/menu-ubuntuve/
 
 ### L10N Support:
 * English
