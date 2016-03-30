@@ -1,4 +1,4 @@
-![ubuntuve-logo](https://github.com/Ubuntu-ve/menu-ubuntu-ve/master/press/logo/ubuntuve_logo.png "ubuntuve")
+![ubuntuve-logo](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/logo/ubuntuve_logo.png "ubuntuve")
 # Menu Ubuntu VE
 Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.
 
@@ -13,10 +13,10 @@ https://addons.mozilla.org/addon/ubuntu-venezuela/
 Filing a bug at https://github.com/Ubuntu-ve/menu-ubuntu-ve/issues
 
 ### Preview Screenshots
-![ubuntuve-png](https://github.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100740.png "ubuntuve") <br/>
-![ubuntuve-png](https://github.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100742.png "ubuntuve") <br/>
-![ubuntuve-png](https://github.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100744.png "ubuntuve") <br/>
-![ubuntuve-png](https://github.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100750.png "ubuntuve")
+![ubuntuve-png](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100740.png "ubuntuve") <br/>
+![ubuntuve-png](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100742.png "ubuntuve") <br/>
+![ubuntuve-png](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100744.png "ubuntuve") <br/>
+![ubuntuve-png](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100750.png "ubuntuve")
 
 ### Works with:
 
