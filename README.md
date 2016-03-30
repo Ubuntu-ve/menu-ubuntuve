@@ -10,7 +10,7 @@ https://addons.mozilla.org/addon/menu-ubuntuve/
 * Spanish
 
 ## Support
-Filing a bug at https://github.com/Ubuntu-ve/menu-ubuntu-ve/issues
+Filing a bug at https://github.com/Ubuntu-ve/menu-ubuntuve/issues
 
 ### Preview Screenshots
 ![ubuntuve-png](https://raw.githubusercontent.com/Ubuntu-ve/menu-ubuntu-ve/master/press/screens/100740.png "ubuntuve") <br/>
