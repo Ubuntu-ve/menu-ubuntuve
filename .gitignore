@@ -1,7 +1,12 @@
+# Mozilla
+*.xpi
+*.zip
+*.jar
+*.mar
+
 # Logs
 logs
 *.log
-npm-debug.log*
 
 # Runtime data
 pids
@@ -24,10 +29,36 @@ coverage
 build/Release
 
 # Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-# Optional npm cache directory
-.npm
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Optional REPL history
-.node_repl_history
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+*.log
+
+test/

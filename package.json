@@ -1,0 +1,33 @@
+{
+  "title": "Menú Ubuntu Venezuela",
+  "name": "menu-ubuntuve",
+  "version": "3.0.1",
+  "id": "jid0-narVkJ7UHSQ1rBsFndoiX6fp7tI@jetpack",
+  "description": "Menu de navegación y acceso directo en Barra de Complementos de la comunidad oficial de Ubuntu en Venezuela.",
+  "main": "index.js",
+  "author": {
+    "name": "Alexander J. Salas B.",
+    "email": "a.salas@ieee.org",
+    "url": "http://ajsb85.com/"
+  },
+  "contributors": [{
+    "name": "David Emerling Rondón",
+    "email": "emerling@ubuntu.org.ve",
+    "url": "http://emerling.blogspot.com/"
+  }],
+  "engines": {
+    "firefox": ">=38.0a1 <=47.0a2"
+  },
+  "permissions": {
+    "multiprocess": true
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "jetpack",
+    "ubuntu",
+    "venezuela"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ubuntu-ve/menu-ubuntu-ve/issues"
+  }
+}
